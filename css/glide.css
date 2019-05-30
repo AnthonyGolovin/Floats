@@ -1,0 +1,14 @@
+.img {
+  float:left;
+}
+.sidebar {
+  float:left;
+  width: 300px;
+  background-color: red;
+}
+.column {
+  width: 300px;
+  float: right;
+  text-align: left;
+
+}
